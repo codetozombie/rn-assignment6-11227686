@@ -88,7 +88,7 @@ npm install @react-navigation/native @react-navigation/drawer @react-navigation/
 ## Screenshots
 Here are some screehot of the appps
 
-![Screenshot](path)
-![Screenshot](path)
-![Screenshot](path)
-![Screenshot](path)
+![Screenshot](/assets/sc1.jpg)
+![Screenshot](/assets/sc2.jpg)
+![Screenshot](/assets/sc3.jpg)
+![Screenshot](/assets/sc4.jpg)
